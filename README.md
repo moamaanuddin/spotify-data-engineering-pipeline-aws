@@ -66,29 +66,7 @@ Spotify Dataset
 ```
 
 ---
-spotify-data-engineering-pipeline-aws/
-│
-├── README.md
-│
-├── architecture/
-│   └── architecture.png
-│
-├── screenshots/
-│   ├── s3-staging.png
-│   ├── s3-datawarehouse.png
-│   ├── glue-etl-workflow.png
-│   ├── glue-crawler.png
-│   ├── athena-top-tracks.png
-│   └── athena-genre-analysis.png
-│
-├── sql/
-│   ├── top_tracks.sql
-│   ├── top_artists.sql
-│   ├── genre_analysis.sql
-│   └── label_analysis.sql
-│
-└── glue-scripts/
-    └── etl_job.py
+
 ## ☁️ AWS Services Used
 
 | Service              | Purpose             |
